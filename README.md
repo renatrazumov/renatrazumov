@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning javascript, python, solidity, react & react native
 - 🫵🏻 [flowstake.com](https://flowstake.com) — Bet on yourself
 - 🌱 [timber.bid](https://timber.bid) — Firewood Marketplace
+- ($) [magicmoneymachine](https://magicmoneymachine.app) - Automated Cryptocurrency Trading Bot
 
 Feel free to fund, donate or contribute to the projects!
